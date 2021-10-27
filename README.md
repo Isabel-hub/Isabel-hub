@@ -9,6 +9,7 @@
 * Pyhton
 * Html
 * CSS
+* Adobe XD, Illustrator, Photoshop, Figma
 
 ## Examples of Work
 * https://www.behance.net/isabellusabe
