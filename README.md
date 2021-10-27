@@ -5,7 +5,7 @@
 
 ## Skills and experience
 
-* Kotlin
+# Kotlin
 * Pyhton
 * Html
 * CSS
