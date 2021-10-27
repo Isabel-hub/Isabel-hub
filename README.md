@@ -11,9 +11,8 @@
 * CSS
 
 ## Examples of Work
-
-* https://www.behance.net/isabellusabe
-* www.fics.co.ke
+ https://www.behance.net/isabellusabe
+ www.fics.co.ke
 * https://northwavecredit.com/
 * https://www.whiterose.co.ke/
 
