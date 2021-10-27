@@ -12,7 +12,10 @@
 
 ## Examples of Work
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIg3GfZntiQJzdrng2tWtPs%2FDecor-Article%3Fpage-id%3D9%253A303%26node-id%3D9%253A304%26starting-point-node-id%3D9%253A304" allowfullscreen></iframe>
+https://www.behance.net/isabellusabe
+www.fics.co.ke
+https://northwavecredit.com/
+https://www.whiterose.co.ke/
 
 - 🔭 I’m currently working on A logistics App 
 - 🌱 I’m currently learning Springboot with Kotlin 
