@@ -12,10 +12,10 @@
 
 ## Examples of Work
 
-https://www.behance.net/isabellusabe
-www.fics.co.ke
-https://northwavecredit.com/
-https://www.whiterose.co.ke/
+*https://www.behance.net/isabellusabe
+*www.fics.co.ke
+*https://northwavecredit.com/
+*https://www.whiterose.co.ke/
 
 - 🔭 I’m currently working on A logistics App 
 - 🌱 I’m currently learning Springboot with Kotlin 
