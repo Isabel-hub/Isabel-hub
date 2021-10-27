@@ -1,10 +1,14 @@
-### Hi there 👋, Isabella Hadija
-#### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/806587309/1593285862/600x200)
+# Hi there, I'm Isabella Hadija
 
  I love designing and development. I enjoy learning languages and frameworks like Kotlin, Python,Springoot. I also enjoy doing wireframes, UI designs in general.
 
-Skills: Kotlin/Python/Html/CSS
+## Skills and experience
+
+* Kotlin
+* Pyhton
+* Html
+* CSS
 
 - 🔭 I’m currently working on A logistics App 
 - 🌱 I’m currently learning Springboot with Kotlin 
