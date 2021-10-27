@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Isabella Hadija
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/806587309/1593285862/600x200)
 
-I'm Isabel from Nairobi Kenya and i do design and development. I enjoy learning languages and frameworks like Kotlin, Python,Springoot. I also enjoy doing wireframes, UI designs in general. 
-You can check out my design portfolio at https://www.behance.net/isabellusabe. Dont forget to check in, like and follow on https://www.linkedin.com/in/isabellusabe/ , and https://twitter.com/isabel_lusabe
-[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabel-hub)](https://github.com/Isabel-hub/github-readme-stats)
+ I love designing and development. I enjoy learning languages and frameworks like Kotlin, Python,Springoot. I also enjoy doing wireframes, UI designs in general.
 
 Skills: Kotlin/Python/Html/CSS
 
@@ -14,7 +14,6 @@ Skills: Kotlin/Python/Html/CSS
 - ⚡ Fun fact: I'm quietly courageous 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Isabel-hub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/isabellusabe//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/isabel_lusabe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Every Week (Channel is In progress))  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Isabel-hub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/isabellusabe//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/isabel_lusabe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCatgH-YVmQAS7cBSGvaVeCA)  
 
-![Profile views](https://gpvc.arturio.dev/Isabel-hub)  
  
