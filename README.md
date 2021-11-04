@@ -1,5 +1,5 @@
 ![Design and Development](https://pbs.twimg.com/profile_banners/806587309/1593285862/600x200)
-# Hi there, I'm Isabella Hadija
+# Hi there, I'm Hadija
 
  I love designing and development. I enjoy learning languages and frameworks like Kotlin, Python,Springoot. I also enjoy doing wireframes, UI designs in general.
 
